@@ -1,0 +1,231 @@
+@media only screen and (max-width: 1200px){
+    .heroText{
+       
+        
+        width: 100%;
+        padding: 0 2%;
+    }
+}
+
+@media only screen and (max-width: 1023px){
+    section{
+        padding: 60px 0px;
+        
+    }
+    
+    .steps-discription{
+        flex-direction: column;
+        width: 100%;
+        align-items: center;
+        padding: 0px;
+
+    }
+    .steps{
+        padding: 0px;
+        margin: 0px;
+        width: 100%;
+       
+    }
+    .heroText{
+        margin-top: 10%;
+       
+        
+        width: 80%;
+    }
+    .phone-pic{
+   
+        width: 60%;
+        height: auto;
+        
+    
+    }
+    .mainNav li{
+        display: inline-block;
+        padding: 0px;
+        margin: 0px;
+        padding: 17px;
+    }
+    .cust-review{
+        font-size: 15px;
+    }
+    
+}
+@media only screen and (max-width: 860px){
+    .logo{
+        height: 80px;
+    }
+    .mainNav li{
+        font-size: 10px;
+        padding-left: 1px;
+        margin: 0px;
+    }
+    .heading{
+        font-size: 35px;
+        padding: 0px;
+    }
+    .btn1{
+        font-size: 15px;
+        margin-left: 30px;
+        margin-right: 5px;
+    }
+    .btn2{
+        font-size: 15px;
+        margin-left: 5px;
+    }
+    .feature{
+        width: 49%;
+        
+        
+
+    }
+    h3{
+        font-size: 20px;
+        margin: 5px;
+        
+    }
+    .feature-section{
+        flex-wrap: wrap;
+        margin: 0px;
+    }
+    .feature-text{
+        font-size: 10px;
+    }
+    .feature{
+        margin-top: 10px;
+    }
+    .step{
+        font-size: 15px;
+    }
+    .number{
+        font-size: 20px;
+        padding: 5px 7px;
+    }
+    .stepNumber{
+        margin-top: 5px;
+    }
+    .stepNumber img{
+        height: 40px;
+    }
+    .work-heading{
+        margin-bottom: 10px;
+        margin-top: 300px;
+    }
+    h2{
+        margin-bottom: 15px;
+    }
+    .city-heading{
+        margin-top: 10px;
+    }
+    .city{
+        width: 49%;
+        margin-top: 10px ;
+    }
+    .city-box{
+        flex-wrap: wrap;
+    }
+    .meal-section{
+        margin-top: 0px;
+    }
+    .meal img{
+        height: 100px;
+        
+    }
+    .how-it-work{
+        padding-bottom: 10px;
+    }
+    .review-box{
+        flex-wrap: wrap;
+        margin: 0;
+    }
+    .review{
+        width: 49%;
+    }
+    h5{
+        font-size: 25px;
+        margin: 0px;
+        margin-bottom: 5px;
+    }
+    .cust-review{
+        font-size: 14px;
+    }
+    .cust-img{
+        margin: 5px;
+    }
+    .subscription{
+        padding: 0px;
+
+    }
+    section{
+        padding: 0px;
+    }
+    h2{
+        font-size: 30px;
+    }
+    .subs-menu{
+        flex-wrap: wrap;
+        
+    }
+    .menu{
+        width: 100%;
+        text-align: center;
+        border: 2px solid rgb(243, 163, 14);
+        margin: 5px 80px;
+    }
+    .menu p{
+        margin: 5px;
+    }
+    .menu-part-2 p{
+        font-size: 15px;
+    }
+    .menu-heading{
+        font-size: 22px;
+    }
+    .menu-price{
+        font-size: 35px;
+    }
+    .form-heading{
+        padding: 10px;
+        
+    }
+    form{
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    label{
+        font-size: 15px;
+    }
+    #name_part{
+        margin-left: 130px;
+    }
+    #email_part{
+        margin-left: 130px;
+    }
+    #find_us_part{
+        margin-left: 35px;
+    }
+    #newsletter_part{
+        margin-left: 90px;
+    }
+    #comment_part{
+        margin-left: 105px;
+    }
+    .name{
+        margin: 5px;
+    }
+    .email{
+        margin: 5px;
+    }
+    .find_us{
+        margin: 5px;
+    }
+    .newsletter{
+        margin: 5px;
+    }
+    .comment{
+        margin: 5px;
+    }
+    
+    
+    
+    
+}
